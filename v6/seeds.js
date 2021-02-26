@@ -5,17 +5,17 @@ var Comment = require("./models/comment");
 var data =[
     {
         name: "Cloud's Rest",
-        image: "https://pixabay.com/get/g89c0c8dff4e2d26c0046c571b318327bc43d60260c06fd39e7581117f86f9800d13d4b71a04f5b2bd8b972b9cc04aa94_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2017/07/17/16/21/nature-2512944_960_720.jpg",
         description: "Vivamus a sodales ex. Nullam aliquet cursus nibh ultrices facilisis. Vivamus tortor ligula, bibendum eget facilisis at, semper vel tellus. Aliquam vehicula ipsum nec nisl convallis bibendum. Nulla facilisi. Duis porta vehicula arcu vitae imperdiet. Suspendisse sodales convallis est, ac lobortis mi hendrerit sit amet. Quisque dignissim purus magna, sed dictum ante pulvinar quis. Aliquam varius mollis mauris vitae suscipit. Donec semper lectus sed consectetur vulputate. Praesent nibh elit, viverra non tristique vitae, consequat vel sem. Duis ut aliquet nunc, at consectetur justo. Morbi et commodo ipsum, eget porttitor ligula. Pellentesque molestie id lacus non gravida."
     },
     {
         name: "Desert Mesa",
-        image: "https://pixabay.com/get/g060ede86cc05c10034675a35a39b0e8c6151ae00cc38499c0c4132be27580a4c0ba6165159d69769f7e892d29cd02c9b_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2018/05/16/15/49/camper-3406137_960_720.jpg",
         description: "Vivamus a sodales ex. Nullam aliquet cursus nibh ultrices facilisis. Vivamus tortor ligula, bibendum eget facilisis at, semper vel tellus. Aliquam vehicula ipsum nec nisl convallis bibendum. Nulla facilisi. Duis porta vehicula arcu vitae imperdiet. Suspendisse sodales convallis est, ac lobortis mi hendrerit sit amet. Quisque dignissim purus magna, sed dictum ante pulvinar quis. Aliquam varius mollis mauris vitae suscipit. Donec semper lectus sed consectetur vulputate. Praesent nibh elit, viverra non tristique vitae, consequat vel sem. Duis ut aliquet nunc, at consectetur justo. Morbi et commodo ipsum, eget porttitor ligula. Pellentesque molestie id lacus non gravida."
     },
     {
         name: "Canyon Floor",
-        image: "https://pixabay.com/get/g813b40ecd3505c7371ccf9644f8e601a51f385f5d2febbfe1aff04c45535eeafd2769c5df443e380f1f2fd526b93b01f_340.jpg",
+        image: "https://cdn.pixabay.com/photo/2020/04/21/15/08/hiking-5073410_960_720.jpg",
         description: "Vivamus a sodales ex. Nullam aliquet cursus nibh ultrices facilisis. Vivamus tortor ligula, bibendum eget facilisis at, semper vel tellus. Aliquam vehicula ipsum nec nisl convallis bibendum. Nulla facilisi. Duis porta vehicula arcu vitae imperdiet. Suspendisse sodales convallis est, ac lobortis mi hendrerit sit amet. Quisque dignissim purus magna, sed dictum ante pulvinar quis. Aliquam varius mollis mauris vitae suscipit. Donec semper lectus sed consectetur vulputate. Praesent nibh elit, viverra non tristique vitae, consequat vel sem. Duis ut aliquet nunc, at consectetur justo. Morbi et commodo ipsum, eget porttitor ligula. Pellentesque molestie id lacus non gravida."
     }
 ]
